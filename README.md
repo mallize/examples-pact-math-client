@@ -1,4 +1,4 @@
-** An example client forging a Pact with MathAPI **
+*** An example client forging a Pact with MathAPI
 
 * Run tests mocking out Pact and create Pact files
 sbt test
