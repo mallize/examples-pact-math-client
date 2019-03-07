@@ -8,3 +8,6 @@ Run tests mocking out Pact and create Pact files
 Run a mock server based on the pact files
 
 ```sbt "pact-stubber --host localhost --port 9001 --source target/pacts"```
+
+
+You can read more about PACT here: https://docs.pact.io/
